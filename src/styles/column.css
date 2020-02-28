@@ -1,0 +1,30 @@
+
+.column {
+    background-color: teal;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    color: white;
+    /* position: absolute; */
+}
+
+.evaluate {
+    background-color: springgreen;
+    /* transform: translateX(100%); */
+}
+.swap {
+    background-color: purple;
+    /* transform: translateX(100%); */
+}
+.finish {
+    background-color: sandybrown;
+    /* transform: translateX(100%); */
+}
+
+.pivot {
+    background-color: tomato;
+}
+
+.finish{
+    background-color: mediumvioletred;
+}
